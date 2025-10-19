@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
-    name: "Ankita Mohapatra - bala"
+    name: "Ankita Mohapatra - pelo"
     email: "ankitamohapatra.com"
   onCallSupport:
     - (666) 265-3765
