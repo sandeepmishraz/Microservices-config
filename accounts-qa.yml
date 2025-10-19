@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to EazyBank accounts related TEST APIs "
   contactDetails:
     name: "Ankita Mohapatra - pelo"
     email: "ankitamohapatra.com"
