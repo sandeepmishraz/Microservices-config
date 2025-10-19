@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to EazyBank cards related WebHook APIs"
+  message: "Hey, welcome to EazyBank cards related mithuli APIs"
   contactDetails:
     name: "Sandeep Mishra - Product Owner"
     email: "sandra@eazybank.com"
